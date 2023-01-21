@@ -14,7 +14,7 @@
     padding: 0;
     margin: 0;
     display: inline-block;
-    background-color: greenyellow
+    background-color: white;
 }
 .tablecontainer
 {
@@ -31,7 +31,6 @@
 
 .video
 {
-    background: green;
     display: inline-block;
 }
 
